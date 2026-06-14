@@ -1,5 +1,3 @@
-This module tracks the multi-product selectivity split (including Ethylene byproduct gas) and the $4.08\text{ kW}$ thermal load balance across the $125\mu\text{m}$ Nafion membrane.
-
 """
 Simulation 03: Advanced Multi-Physics & Thermal Balance Loop
 Tracks complex product splitting alongside Joule heating and entropic overhead 
