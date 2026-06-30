@@ -40,3 +40,11 @@ Achieving a precise seal across a 1.0-meter active length without crushing the b
       O-----------O-----------O-----------O
    (Tie 8)     (Tie 6)     (Tie 4)     (Tie 2)
      [Bottom End-Plate Steel Boundary]
+
+Torque Fastening Sequence
+To compress the 1.5 mm EPDM perimeter gaskets uniformly to a targeted internal line pressure of 1.8 MPa, fasteners must be torqued progressively using a classic crossover pattern:
+1. Hand-Tighten: Spin all 8× M16 hex nuts down until they sit flush against the washer face.
+2. Increment 1 (Low Load): Torque to $8\text{ N}\cdot\text{m}$ tracking the sequence: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8.
+3 Increment 2 (Medium Load): Torque to $15\text{ N}\cdot\text{m}$ tracking the sequence: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8.
+4. Final Calibration Pass: Apply the final blueprint specification of $22\text{ N}\cdot\text{m}$ uniformly across all nuts.
+5. Settling Verification: Let the assembly settle for 24 hours to allow the polymer components to relax, then execute a final verification pass at 22 N.m before beginning fluidic wet checks.
