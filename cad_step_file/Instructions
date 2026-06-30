@@ -1,1 +1,4 @@
-This folder acts as a placeholder for your 3D computer-aided design models. STEP (.step or .stp) stands for Standard for the Exchange of Product model data. It is the universal, platform-independent file format used by mechanical engineers to export 3D layouts from design software (like SolidWorks, Autodesk Fusion 360, or AutoCAD) so they can be loaded directly into computer-aided manufacturing (CAM) CNC milling systems at a commercial machine shop.
+This folder acts as a placeholder for your 3D computer-aided design models. 
+STEP (.step or .stp) stands for Standard for the Exchange of Product model data. It is the universal, 
+platform-independent file format used by mechanical engineers to export 3D layouts from design software (like SolidWorks, Autodesk Fusion 360, or AutoCAD) 
+so they can be loaded directly into computer-aided manufacturing (CAM) CNC milling systems at a commercial machine shop.
