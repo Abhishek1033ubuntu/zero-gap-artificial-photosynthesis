@@ -25,5 +25,6 @@ The platform provides a highly scalable, economically viable alternative to trad
 │   ├── mechanical_blueprint.md           # CNC plate milling coordinates, EPDM torque specs, and weight bills
 │   └── /cad_step_files/                  # (Placeholder for physical 3D modeling assets)
 ├── docs/
-│   └── Artificial_Photosynthesis_Project_Report.pdf  # Full validated engineering and policy report
+│   ├── Artificial_Photosynthesis_Project_Report.pdf  # Full validated engineering and policy report
+│   └── Completed_Artificial_Photosynthesis_Report.pdf
 └── README.md                             # Repository landing page and system documentation
